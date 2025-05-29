@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Morteza Chinahkash
 
-I'm an aspiring **Full-Stack Web Developer** based in Germany 🇩🇪, currently enrolled in the **Frontend Developer Bootcamp at Developer Akademie** (Jan–Jul 2025).
+I'm an aspiring **Front-End Web Developer** based in Germany 🇩🇪, currently enrolled in the **Frontend Developer Bootcamp at Developer Akademie** (Jan–Jul 2025).
 
 💻 Right now, I'm focused on building interactive, user-friendly web applications using modern frontend technologies.  
 🚀 In parallel, I'm learning **Java** and preparing to dive into **Spring Boot** to expand my skills into backend development.
