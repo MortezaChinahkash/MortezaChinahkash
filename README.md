@@ -12,9 +12,9 @@ I love turning ideas into clean, responsive, and accessible web experiences — 
 ## 🧠 What I'm Learning
 
 - ✅ Building over 12 hands-on projects as part of the Developer Akademie curriculum
-- ✅ Learning frontend technologies like **HTML, CSS, JavaScript, React, Angular, Vue & TypeScript**
+- ✅ Learning frontend technologies like **HTML, CSS, JavaScript, React, Angular, Vue, TypeScript & RxJS**
 - ✅ Deepening my understanding of modern styling tools like **SASS/SCSS**, **Bootstrap**, **Material Design**, and **Tailwind CSS**
-- ✅ Self-studying **Java** and preparing to use **Spring Boot** for backend APIs and full-stack integration
+- ✅ Currently self-studying **Java** and preparing to use **Spring Boot** for backend APIs and full-stack integration
 
 ---
 
@@ -28,6 +28,7 @@ I love turning ideas into clean, responsive, and accessible web experiences — 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 
 ### 🎨 Styling  
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -36,7 +37,21 @@ I love turning ideas into clean, responsive, and accessible web experiences — 
 ![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend (in progress)  
+### ☁️ Cloud & BaaS  
+**I’m experienced with building, deploying and scaling web applications using Firebase:**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+- Authentication
+- Firestore (Realtime Database)
+- Hosting & Deployment
+- Storage
+- Cloud Functions
+
+**Some initial experience with Azure cloud services:**
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+- Web App Hosting & Deployment
+- Basic understanding of Azure Portal
+
+### ⚙️ Backend  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
@@ -51,6 +66,6 @@ I love turning ideas into clean, responsive, and accessible web experiences — 
 
 If you're interested in collaborating, have a question, or just want to say hi — feel free to reach out! I'm always open to learning from others, working on cool projects, or contributing to the dev community.
 
-> ✨ _"The best way to learn is by doing — and I'm doing it every day."_  
+> ✨ _"The best way to learn is by doing — and I'm doing it every day."_
 
 Thanks for visiting my profile 🙌
