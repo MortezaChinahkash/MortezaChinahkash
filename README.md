@@ -43,9 +43,7 @@ I love turning ideas into clean, responsive, and accessible web experiences — 
 
 - Authentication
 - Firestore (Realtime Database)
-- Hosting & Deployment
 - Storage
-- Cloud Functions
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)<br>
 **Some initial experience with Azure cloud services:**<br>
