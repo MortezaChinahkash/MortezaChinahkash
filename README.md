@@ -12,8 +12,8 @@ I love turning ideas into clean, responsive, and accessible web experiences — 
 ## 🧠 What I'm Learning
 
 - ✅ Building over 12 hands-on projects as part of the Developer Akademie curriculum
-- ✅ Learning frontend technologies like **HTML, CSS, JavaScript, React, Angular & TypeScript**
-- ✅ Deepening my understanding of modern styling tools like **SASS/SCSS** and **Bootstrap**
+- ✅ Learning frontend technologies like **HTML, CSS, JavaScript, React, Angular, Vue & TypeScript**
+- ✅ Deepening my understanding of modern styling tools like **SASS/SCSS**, **Bootstrap**, **Material Design**, and **Tailwind CSS**
 - ✅ Self-studying **Java** and preparing to use **Spring Boot** for backend APIs and full-stack integration
 
 ---
@@ -27,11 +27,14 @@ I love turning ideas into clean, responsive, and accessible web experiences — 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ### 🎨 Styling  
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend (in progress)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
