@@ -38,7 +38,7 @@ I love turning ideas into clean, responsive, and accessible web experiences — 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ☁️ Cloud & BaaS<br>
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)<br>
 **I’m experienced with building, deploying and scaling web applications using Firebase:**
 
 - Authentication
