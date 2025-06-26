@@ -47,8 +47,9 @@ I love turning ideas into clean, responsive, and accessible web experiences — 
 - Storage
 - Cloud Functions
 
-**Some initial experience with Azure cloud services:**<br>
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)<br>
+**Some initial experience with Azure cloud services:**<br>
+
 - Web App Hosting & Deployment
 - Basic understanding of Azure Portal
 
