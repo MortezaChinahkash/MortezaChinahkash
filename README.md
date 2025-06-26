@@ -37,16 +37,17 @@ I love turning ideas into clean, responsive, and accessible web experiences — 
 ![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ☁️ Cloud & BaaS  
-**I’m experienced with building, deploying and scaling web applications using Firebase:**
+### ☁️ Cloud & BaaS<br>
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+**I’m experienced with building, deploying and scaling web applications using Firebase:**
+
 - Authentication
 - Firestore (Realtime Database)
 - Hosting & Deployment
 - Storage
 - Cloud Functions
 
-**Some initial experience with Azure cloud services:**
+**Some initial experience with Azure cloud services:**<br>
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 - Web App Hosting & Deployment
 - Basic understanding of Azure Portal
