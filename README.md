@@ -69,3 +69,7 @@ If you're interested in collaborating, have a question, or just want to say hi �
 > ✨ _"The best way to learn is by doing — and I'm doing it every day."_
 
 Thanks for visiting my profile 🙌
+
+[![Portfolio](https://img.shields.io/badge/-Visit%20my%20Portfolio-blue?style=for-the-badge)](https://github.com/MortezaChinahkash/Portfolio)
+[![El Pollo Loco](https://img.shields.io/badge/-El%20Pollo%20Loco-orange?style=for-the-badge)](https://github.com/MortezaChinahkash/El-Pollo-Loco)
+
