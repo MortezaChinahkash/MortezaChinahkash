@@ -53,7 +53,7 @@ I love turning ideas into clean, responsive, and accessible web experiences — 
 - Web App Hosting & Deployment
 - Basic understanding of Azure Portal
 
-### ⚙️ Backend  
+### ⚙️ Backend (learning...)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
